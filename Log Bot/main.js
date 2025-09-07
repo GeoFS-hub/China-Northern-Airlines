@@ -238,7 +238,7 @@ fetch("https://raw.githubusercontent.com/mwgg/Airports/master/airports.json")
             inline: true
           },
           {
-            name: "🕓 Times",
+            name: "🕓 Time",
             value: `**Takeoff**: ${takeoffTime}\n**Landing**: ${landingTime}`,
             inline: false
           }
@@ -503,7 +503,7 @@ fetch("https://raw.githubusercontent.com/mwgg/Airports/master/airports.json")
     titleBar.innerHTML = `
       <div style="display: flex; align-items: center; justify-content: space-between;">
         <div style="display: flex; align-items: center;">
-          <span style="font-size: 18px; font-weight: bold; color: #00C8FF;">✈️ Travel Airways</span>
+          <span style="font-size: 15px; font-weight: bold; color: #00C8FF;">✈️ China Northern Airlines</span>
         </div>
         <div style="font-size: 12px; color: #888;">按 W 显示/隐藏</div>
       </div>
