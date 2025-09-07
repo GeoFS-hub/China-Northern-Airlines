@@ -15,7 +15,7 @@
   const STORAGE_KEY = "geofs_flight_logger_session";
 
   const SALARY_CONFIG = {
-    baseRate: 800,
+    baseRate: 750,
     nightBonus: 1.2,
     internationalBonus: 1.5,
     butterBonus: 200,
