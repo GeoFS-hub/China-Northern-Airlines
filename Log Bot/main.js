@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         China Northern Airlines Log Bot (GeoFS)
-// @version      1.0.0
+// @version      1.2.1
 // @description  Logs flights with crash detection, auto ICAO detection, session recovery & terrain-based AGL check for Travel Airways
 // @match        http://*/geofs.php*
 // @match        https://*/geofs.php*
